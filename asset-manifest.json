@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chnvarshita/personal-portfolio/static/css/main.7fd8011a.css",
+    "main.js": "/chnvarshita/personal-portfolio/static/js/main.80b40082.js",
+    "static/media/Heroimage.jpg": "/chnvarshita/personal-portfolio/static/media/Heroimage.927936163a139165261c.jpg",
+    "index.html": "/chnvarshita/personal-portfolio/index.html",
+    "main.7fd8011a.css.map": "/chnvarshita/personal-portfolio/static/css/main.7fd8011a.css.map",
+    "main.80b40082.js.map": "/chnvarshita/personal-portfolio/static/js/main.80b40082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd8011a.css",
+    "static/js/main.80b40082.js"
+  ]
+}
